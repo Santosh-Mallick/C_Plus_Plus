@@ -1,3 +1,4 @@
+// if and else
 #include<iostream>
 using namespace std;
 
